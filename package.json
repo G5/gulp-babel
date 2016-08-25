@@ -32,7 +32,7 @@
     "compiler"
   ],
   "dependencies": {
-    "babel-core": "git@github.com:babel/babel.git#f834a24b502c39c17ebcd27641c1c2299f7c48cf",
+    "babel-core": "^6.14.0",
     "gulp-util": "^3.0.0",
     "object-assign": "^4.0.1",
     "replace-ext": "0.0.1",
